@@ -1,0 +1,27 @@
+_repo: The-Story-of-Pocahontas_3129
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warner, Charles Dudley
+    birthdate: 1829
+    deathdate: 1900
+    gutenberg_agent_id: '993'
+    url: http://www.gutenberg.org/2009/agents/993
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dudley_Warner
+description: ''
+gutenberg_issued: '2004-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3129'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F206'
+- !lcsh 'Pocahontas, -1617'
+- !lcsh 'Powhatan women -- Biography'
+- !lcsh 'Powhatan Indians -- Biography'
+- GITenberg
+title: The Story of Pocahontas
+url: http://www.gutenberg.org/ebooks/3129
